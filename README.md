@@ -24,7 +24,7 @@
 #### BIO
 
 - 🏢 Computer Engineering Student at azad university of bushehr 
-- 🔭 Area of interest is in <img src="https://img.shields.io/badge/Pattern Web-green"> and <img src="https://img.shields.io/badge/Anomaly Computer Science-red">
+- 🔭 Area of interest is in <img src="https://img.shields.io/badge/Web-green"> and <img src="https://img.shields.io/badge/Computer Science-red">
 - 🎯 Specifically interested in Back-end Developement.
 - 🌱 <img src="https://img.shields.io/badge/ Never Stop Learning-red">
 - &nbsp; I enjoy listening music 🎧 watching Movies 🎬 and traveling <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">🏝️🗻🌄🗿<img align ='center' width ='20' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18">
