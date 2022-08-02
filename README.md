@@ -4,10 +4,7 @@
 <h3 align="center"> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Yaser Dehghan! A passionate Programmer - Back-end Developer <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
 </h3> 
-
-<p align="center">   
-
-</p> 
+ 
 <p align="center"> 
     <a href="https://github.com/yaser11138" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Github-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/yaser-dehghan-back-end" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
