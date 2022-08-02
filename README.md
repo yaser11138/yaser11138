@@ -1,5 +1,6 @@
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!)](https://git.io/typing-svg)
-
+</div>
 
 <h3 align="center"> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Yaser Dehghan! A passionate Programmer - Back-end Developer <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
