@@ -19,7 +19,7 @@
 
 
 ##### NOW
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently working on Learning Back-End Development
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28">I am Currently working on Creating Projects with Django/Python and Learning Back end Development
 
 #### BIO
 
