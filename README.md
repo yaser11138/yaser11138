@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/color="008000"&Hello+World!;Nice to see you&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?color="008000"&Hello+World!;Nice to see you&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 <h3 align="center"> 
