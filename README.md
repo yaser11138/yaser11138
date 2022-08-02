@@ -7,9 +7,9 @@
 </h3> 
  
 <p align="center"> 
-    <a href="https://github.com/yaser11138" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/yaser-dehghan-back-end" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://t.me/Yaser11138" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Telegram-0077B5?style=flat-square&logo=Telegram&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/yaser-dehghan-back-end" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://t.me/Yaser11138" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="mailto:ydahgan@gmail.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p> 
 
 <table align="right">
@@ -30,5 +30,14 @@
 - 🤔 I’m currently open for: A job opportunity,
 - 🌱 <img src="https://img.shields.io/badge/ I Never Stop Learning-red">
 - &nbsp; I enjoy listening music 🎧 watching Movies 🎬 and traveling <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">🏝️🗻🌄🗿<img align ='center' width ='20' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18">
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:ydahgan@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-ydahgan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
+<h1 align="center"> Languages and Tools I use </h1>
+<p align="center">
+    <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
+    <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
+    <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="./assets/Bootstrap_logo.png" height="42"></a></code>
+    <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
+    <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
+    <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
+    <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
+</p>
