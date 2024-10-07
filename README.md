@@ -17,8 +17,7 @@
 #### BIO
 
 - 🏢 Computer Engineering Student at azad university of bushehr 
-- 🔭 Area of interest is in <img src="https://img.shields.io/badge/Web-green"> and <img src="https://img.shields.io/badge/Computer Science-red">
+- 🔭 Area of interest is in web and computer science
 - 🎯 Specifically interested in Back-end Developement.
 - 🤔 I’m currently open for: A job opportunity,
-- 🌱 <img src="https://img.shields.io/badge/ I Never Stop Learning-red">
 
