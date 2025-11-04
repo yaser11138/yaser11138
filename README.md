@@ -3,7 +3,7 @@
     </div>
 
 <h3 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Yaser Dehghan! A passionate Programmer - Back-end Developer
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Yaser Dehghan! A passionate Programmer
 </h3> 
  
 <p align="center"> 
@@ -11,13 +11,10 @@
     <a href="mailto:ydahgan@gmail.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p> 
 
-##### NOW
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28">I am Currently working on Creating Projects with Django/Python and Learning Back end Development
 
 #### BIO
 
-- 🏢 Computer Engineering Student at azad university of bushehr 
-- 🔭 Area of interest is in web and computer science
-- 🎯 Specifically interested in Back-end Developement.
-- 🤔 I’m currently open for: A job opportunity,
+- 🏢 Computer Architecture Student in Shahid Beheshti University
+- 🔭 Area of interest is in Programming and Computer Architecture
+
 
